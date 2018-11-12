@@ -1,5 +1,13 @@
 # Readme
-1. Clone repository
-2. Copy iwlwifi-8000C-26.ucode to /lib/firmware
-3. Edit file /usr/share/appdata/firmware-iwlwifi.metainfo.xml and past new line: <firmware type="runtime">iwlwifi-8000C-26.ucode</firmware>
-4. It's done.
+
+<ul>
+  <ol>Clone repository</ol>
+  <ol>Copy iwlwifi-8000C-26.ucode to /lib/firmware</ol>
+  <ol>
+    <dl>
+      <dt>Edit file /usr/share/appdata/firmware-iwlwifi.metainfo.xml and past new line:</dt>
+      <dd><firmware type="runtime">iwlwifi-8000C-26.ucode</firmware></dd>
+    </dl>
+  </ol>
+  <ol>It's done.</ol>
+</ul>
