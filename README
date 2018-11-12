@@ -4,4 +4,5 @@
 * Copy iwlwifi-8000C-26.ucode to /lib/firmware
 * Edit file /usr/share/appdata/firmware-iwlwifi.metainfo.xml and past new line:
 * <firmware type="runtime">iwlwifi-8000C-26.ucode</firmware>
+* reboot system
 * It's done.
